@@ -58,6 +58,7 @@ Dates in the source are Unix epoch seconds, so they are converted in Tableau (Qu
 ## Dashboard 
 https://public.tableau.com/app/profile/pratham.vishwakarma/viz/KickStarterCrowdFundingDashBoard/Dashboard1
 
+
 | Section | Worksheets | Questionnaire task |
 |---|---|---|
 | Headline KPIs | `Total Project`, `Success %`, `S. Amount raised`, `S. Backer Count`, `No. of backers`, `Static USD Rate` | Q4, Q5, Q6, Q8 |
